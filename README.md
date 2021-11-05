@@ -3,10 +3,6 @@
 ↑クリックするとデモ動画が再生されます
 (開かない場合：https://youtu.be/IcQucvxqbXQ)
 
-## Webアプリ
-[FindPet.Me](http://date.ddns.net:7777/)
-どうぞご利用ください。
-
 ## 製品概要
 ### 背景(製品開発のきっかけ、課題等）
 
